@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin: 5px;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+}
+.button {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 8px;
+}
